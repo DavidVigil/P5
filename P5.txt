@@ -1,0 +1,34 @@
+En la prueba de conocimientos respondimos las siguientes preguntas:
+
+1. Son estructuras de datos lineales utilizadas en el manejo de información:
+  La respuesta correcta para esta pregunta es "Pilas y Colas", pues si bien
+  no son las únicas estructuras utilizadas en el manejo de información, sí
+  son estructuras lineales. Esto significa que la información va a ser
+  almacenada de forma ordenada y sucesiva temporalmente.
+
+2. Una de sus aplicaciones es el manejo de vistas de una aplicación móvil:
+  La respuesta correcta para esta pregunta es "Pilas", ya que como vimos en
+  clase: aplicaciones como WhatsApp utilizan pilas para mostrar los chats
+  en el orden en el que resulta más relevante leerlos deacuerdo a la hora
+  de llegada. También se utilizan pilas al momento de acceder a la función
+  de cámara para actualizar un estado. La aplicación principal queda debajo
+  de la función cámara, que está siendo utilizada en ese momento.
+
+3. Una de sus aplicaciones es la forma de trabajo de una impresora:
+  Como vimos en clase, las impresoras utilizan la estructura "Cola" para
+  imprimir en el orden correcto las páginas que recibe, procesa los datos
+  que llegan como si fuera una fila, donde el primer dato en llegar, es el
+  primero en ser procesado y salir.
+
+4. ¿Qué forma de acceso a la informacion tienen las pilas?
+  Las pilas funcionan de forma apilable, lo que quiere decir que el primer
+  elemento en entrar a la pila, debe ser el último en salir (FILO). De la
+  misma forma, es evidente que el último dato en entrar a la pila, será el
+  primero en salir (LIFO). De esta forma sabemos que la respuesta correcta
+  a la pregunta es "LIFO y FILO".
+
+5. ¿Qué forma de acceso a la informacion tienen las colas?
+  La estructura Cola funciona de forma lineal no regresiva, donde el primer
+  dato que ingresa en la cola será el primero en salir (FIFO). De la misma
+  forma, el último elemento en entrar a la cola, será el último elemento
+  que saldrá (LILO). Es así como sabemos que la respuesta es "FIFO y LILO".
